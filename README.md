@@ -1,4 +1,4 @@
-#h1 Supply Chain Graph Analysis using Graph Algorithms
+# Supply Chain Graph Analysis using Graph Algorithms
 
 The project is aimed at analyzing a supply chain dataset through the use of graph algorithms. The graph is modelled as a DAG graph with each node represented as an object. All the nodes derive from a Graph_Node class. The algorithms implemented uses an adjaceny list implemented using a HashMap. 
 
